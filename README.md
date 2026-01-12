@@ -1,3 +1,1 @@
-# hello-world
-repository for hello world(first repository)
-practicing the GitHub Flow
+Im a student who beginning their computer science journey.
